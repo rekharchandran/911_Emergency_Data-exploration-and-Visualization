@@ -1,5 +1,5 @@
 # 911_Emergency_Data-exploration-and-Visualization
-For this  project we will be analyzing some 911 call data from Kaggle.
+For this  project we will be analyzing some 911 call data from kaggle.
 The data contains the following fields:
 
 lat : String variable, Latitude
