@@ -11,3 +11,5 @@ timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
+
+The dataset I used was already available on Kaggle: https://www.kaggle.com/mchirico/montcoalert/kernels
